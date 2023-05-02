@@ -13,5 +13,5 @@ But In this Project The Full code is written in java.
 
 ![image](https://user-images.githubusercontent.com/107743709/235657881-1359c858-d5a3-47e2-9009-ccd2970b7057.png)
 
-Point to be noted:
-.Before using it please selcet path in in excel and word class
+Point to be noted: 
+Before using it please selcet path in in excel and word class
