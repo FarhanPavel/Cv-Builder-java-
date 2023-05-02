@@ -17,10 +17,6 @@ public class Designer {
 		System.out.println();
 		System.out.printf("\t\t\t       ~\t   \t    ->  Pavel\t    \t\t    ~\t\t\t       ~\t\t\t\t\t\t    ~");
 		System.out.println();
-		System.out.printf("\t\t\t       ~\t   \t    ->  Konok\t    \t\t    ~\t\t\t       ~\t\t\t\t\t\t    ~");
-		System.out.println();
-		System.out.printf("\t\t\t       ~\t   \t    ->  Basak\t    \t\t    ~\t\t\t       ~\t\t\t\t\t\t    ~");
-		System.out.println();
 		System.out.printf("\t\t\t       ~\t     Jahangirnagar University\t\t    ~\t\t\t       ~\t   \t\t\t\t\t    ~");
 		System.out.println();
 		System.out.printf("\t\t\t       ~\t   \t      IIT-12\t\t    \t    ~\t\t\t       ~\t   \t\t\t\t\t    ~");
